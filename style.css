@@ -1,0 +1,35 @@
+h2 {
+    color: black;
+    font-size: 20px;
+    font-style:oblique;
+    text-align: right;
+}
+
+h1 {
+    color: darkred;
+    font-size: 100px;
+    font-style: italic;
+    text-align: center;
+}
+p {
+    color: black;
+    font-size: 50px;
+    font-style: italic;
+}
+
+ol {
+    color: black;
+    font-size: 30px;
+}
+
+body{
+    background-image:url("background.avif");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+footer{
+    position: fixed;
+    bottom:10%;
+}
